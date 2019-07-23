@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.43.3 clang-1100.0.26.3)"
+options: "a9ce20891dafc16e285343487d42ad3b"
+build_time: [1563012638, 719081000]
+inputs:
+  "/Users/Cosmo/Desktop/swift/MultipleObjectTouch/MultipleObjectTouch/ViewController.swift": [1562923206, 68919131]
+  "/Users/Cosmo/Desktop/swift/MultipleObjectTouch/MultipleObjectTouch/AppDelegate.swift": [1562917243, 102531979]
